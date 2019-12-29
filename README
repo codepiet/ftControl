@@ -1,0 +1,14 @@
+FTControl v1.2
+
+You'll need the Adafruit motor shield v2 or compatible.
+Download the library for the shield via "manage Libraries".
+
+Check the examples!
+
+The Fischertechnik Motors run with a voltage of 6 to 9V. Connect an 
+appropriate power source to the Arduino power jack.
+
+You can reach the author via email: pngabriel@gmail.com
+
+Have Phun!
+
